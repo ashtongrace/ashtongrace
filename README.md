@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrawnangel
 - 👀 I’m interested in ... music, video games, and coding (obviously).
-- 🌱 I’m currently learning ... C++ and java.
+- 🌱 I’m currently learning ... C/C++, Java, Python, HTML/CSS/Javascript, etc.
 - 💞️ I’m looking to collaborate on ... projects for class.
 - 📫 How to reach me ... Here or discord!
 
